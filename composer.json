@@ -1,0 +1,7 @@
+{
+    "name": "td21_6/projet",
+    "type": "project",
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
